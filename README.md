@@ -4,8 +4,10 @@ Medicine recommendation system using LLM model
 
 • The natural language processing (NLP) techniques to understand user symptoms and medical history, this system provides personalized medicine recommendations based on individual health profiles. • The recommendation system will harness the power of natural language processing (NLP) techniques to comprehend user input and suggest the most suitable medications. [This recommendation system is supposed to recommend any medicine/drug on the basis of the search result. The main aim is to recommend any alternative/substitute to be used in place of the searched medicine.]
 
-Features
-1.NLP-Powered Recommendations: Uses advanced NLP techniques to comprehend user inputs and recommend appropriate medications. 2.Personalized Medicine Suggestions: Tailors recommendations based on individual health profiles and medical history. 3.Alternative/Substitute Recommendations: Suggests alternatives or substitutes for searched medicines.
+# Features
+1.NLP-Powered Recommendations: Uses advanced NLP techniques to comprehend user inputs and recommend appropriate medications. 
+2.Personalized Medicine Suggestions: Tailors recommendations based on individual health profiles and medical history. 
+3.Alternative/Substitute Recommendations: Suggests alternatives or substitutes for searched medicines.
 
 # Installation
 Prerequisites
