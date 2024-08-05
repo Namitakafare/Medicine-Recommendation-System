@@ -30,7 +30,7 @@ Prerequisites
 >
 >6.if the application does not start then type python -m streamlit run app.py
 # Development Setup
-1.IDE Setup: Download PyCharm IDE and open the project folder in it.
+1.IDE Setup: Download VSCode/PyCharm IDE and open the project folder in it.
 
 2.Terminal Commands: Use the terminal in VSCode/PyCharm to run the above commands.
 
@@ -41,7 +41,9 @@ Here's how to handle the deployment and retrieve the original data files:
 
 Reduced similarity.pkl File: The reduced similarity.pkl file is provided in the root directory of this repository. This file is optimized for deployment and may contain a smaller subset of data. It is suitable for running the application in a production environment.
 
-# Original Data Files: To obtain the original data files used for development and testing, you will need to extract them from the pickle-files.rar archive. These files, similarity.pkl and medicine_dict.pkl, should be placed in the same directory as the application script app.py for full functionality.
+# Original Data Files: 
+To obtain the original data files used for development and testing,you will need to extract them from the pickle-files.rar archive .These files.similarity.pkl and medicine_dict.pkl, should be placed in the same directory as the application script app.py for full fuctionality.
+
 ---
 ## Kaggle Dataset 📊
 [Click Here](https://www.kaggle.com/code/mpwolke/medicine-recommendation/data "Kaggle Site")  to Access Dataset.
