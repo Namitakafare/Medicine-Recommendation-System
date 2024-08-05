@@ -7,7 +7,7 @@ Medicine recommendation system using LLM model
 Features
 1.NLP-Powered Recommendations: Uses advanced NLP techniques to comprehend user inputs and recommend appropriate medications. 2.Personalized Medicine Suggestions: Tailors recommendations based on individual health profiles and medical history. 3.Alternative/Substitute Recommendations: Suggests alternatives or substitutes for searched medicines.
 
-Installation
+# Installation
 Prerequisites
 
 1.Python 3.x
