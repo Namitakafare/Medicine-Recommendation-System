@@ -17,15 +17,21 @@ Prerequisites
 
 4.Pickle
 
-Steps to Open Localhost for application: 🌐
->1.Extract pickle-files.rar it will extract "similarity.pkl" & "medicine_dict.pkl" pickle files. Make sure the files should be present in the root directory where the app.py is present
+# Steps to Open Localhost for application: 🌐
+>1.Extract pickle-files.rar it will extract "similarity.pkl" & "medicine_dict.pkl" pickle files. Make sure the files should be present in the root directory where the app.py is present.
+>
 >2.Download VSCode/Pycharm IDE and Open this application folder in it.
+>
 >3.Open Termial.
+>
 >4.Import Libraries: streamlit, pandas and pickle.
+>
 >5.Type- streamlit run app.py
+>
 >6.if the application does not start then type python -m streamlit run app.py
 # Development Setup
 1.IDE Setup: Download PyCharm IDE and open the project folder in it.
+
 2.Terminal Commands: Use the terminal in VSCode/PyCharm to run the above commands.
 
 # Deployment and Data Files 📦
